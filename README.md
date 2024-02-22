@@ -12,7 +12,12 @@ Built Using:
 - etc..
 
 This is an exciting new project, I made an app that utilizes AI; 
-Seela, the assistant is able to take a weblink and summarize the content,
+Seela, the summarizer is able to take a weblink and summarize the content,
 could be an article, or a webpage. 
+
+For the front-end, I focused on making an elegant and clean looking app, 
+using tools like tailwind definitely helped in making the app responsive 
+and make it stable and smooth. The app is only 1 page, so not much work came 
+from making the front-end. 
 
 
