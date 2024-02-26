@@ -1,6 +1,6 @@
 Link: https://ai-seela.netlify.app/
 
-<h3>AI Article Summarizer using GPT-4 API</h3>
+<h3>Seela - The AI Article Summarizer using GPT-4 API</h3>
 
 Built Using:
 - React
